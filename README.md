@@ -25,6 +25,8 @@ conda create -n game-env python=3.7 # (first time only)
 conda activate game-env
 ```
 
+"JOHHNY ROCKET"
+
 From inside the virtual environment, install package dependencies:
 
 ```sh
